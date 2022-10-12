@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shikuku
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning web dev and C++
+- 📫 How to reach me Email: enshikuku39@gmail.com
