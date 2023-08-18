@@ -4,7 +4,9 @@
 
 ## About Me
 
-I'm a passionate Full Stack Developer and a dedicated Computer Science student. I love crafting web experiences that make an impact. My journey into the world of code started with a fascination for JavaScript and has evolved into a diverse skill set.
+
+I'm excited to delve deeper into machine learning, exploring its applications in enhancing user experiences and solving complex problems. Additionally, I'm eager to develop expertise in the field of cybersecurity, contributing to creating safer digital environments. My plan also involves contributing more to open-source projects and collaborating with fellow developers to create impactful solutions.
+
 
 - 💼 Full Stack Developer | 🌐 JavaScript Enthusiast
 - 🛠️ HTML/CSS, Node.js, ejs, and React
