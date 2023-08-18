@@ -41,7 +41,8 @@ A Node.js-based web application utilizing Express.js. QUIZ_APP is designed for c
 
 ## Future Goals
 
-I'm excited to delve deeper into machine learning and AI, exploring their applications in enhancing user experiences. Additionally, I plan to contribute more to open-source projects and collaborate with fellow developers to create impactful solutions.
+I'm excited to delve deeper into machine learning, exploring its applications in enhancing user experiences and solving complex problems. Additionally, I'm eager to develop expertise in the field of cybersecurity, contributing to creating safer digital environments. My plan also involves contributing more to open-source projects and collaborating with fellow developers to create impactful solutions.
+
 
 ## Connect with Me
 
