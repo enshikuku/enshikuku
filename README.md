@@ -4,31 +4,29 @@
 
 ## About Me
 
+I'm deeply passionate about machine learning and its potential to enhance user experiences and tackle complex challenges. My journey also leads me towards mastering cybersecurity to contribute to safer digital spaces. I'm committed to open-source projects and collaborating with fellow developers to create meaningful solutions.
 
-I'm excited to delve deeper into machine learning, exploring its applications in enhancing user experiences and solving complex problems. Additionally, I'm eager to develop expertise in the field of cybersecurity, contributing to creating safer digital environments. My plan also involves contributing more to open-source projects and collaborating with fellow developers to create impactful solutions.
+- 💼 I'm a Full Stack Developer with a love for 🌐 JavaScript.
+- 🛠️ Proficient in HTML/CSS, Node.js, ejs, and React.
+- 📚 Currently pursuing a degree in Computer Science.
+- 🎓 Graduating with a BSc in Computer Science from the University of Eldoret in 2025.
+- 🌐 I've honed my skills in Full Stack Web Development at [Eldohub](https://www.eldohub.co.ke/).
 
-
-- 💼 Full Stack Developer | 🌐 JavaScript Enthusiast
-- 🛠️ HTML/CSS, Node.js, ejs, and React
-- 📚 Computer Science Student
-- 🎓 BSc in Computer Science, University of Eldoret (2021-2025)
-- 🌐 Full Stack Web Development, Eldohub ([Eldohub Website](https://www.eldohub.co.ke/))
-
-## Projects
+## My Projects
 
 ### E-learn
 
 [E-learn Repository](https://github.com/Shikuku39/e-learning)
 
-An Express.js web application for an e-learning portal. This platform facilitates interaction between students and administrators, offering resource access, account management, and a chatroom for communication.
+An Express.js web application designed for an e-learning portal. It fosters interaction between students and administrators, offering resource access, account management, and a chatroom for communication.
 
 ### QUIZ_APP
 
 [QUIZ_APP Repository](https://github.com/Shikuku39/QUIZ_APP)
 
-A Node.js-based web application utilizing Express.js. QUIZ_APP is designed for creating and taking quizzes. Users can register, log in, take quizzes, view results, and manage profiles.
+A Node.js-based web application powered by Express.js. QUIZ_APP is tailored for creating and taking quizzes. Users can register, log in, take quizzes, view results, and manage profiles.
 
-## Skills
+## My Skillset
 
 - Frontend: HTML, CSS, React 🌐
 - Backend: Node.js, Express.js 🛠️
@@ -36,13 +34,11 @@ A Node.js-based web application utilizing Express.js. QUIZ_APP is designed for c
 - Templating: ejs 📝
 - Version Control: Git 🗂️
 - Project Management: Chatroom Implementation 💬, User Management 👥
-- Video Editing: Wondershare Filmora 🎥
-- Graphic Design: Canva 🎨, Adobe Photoshop 🖌️
+- Multimedia: Wondershare Filmora for 🎥 video editing, Canva & Adobe Photoshop for 🎨 graphic design.
 
-## Future Goals
+## Aspiring Goals
 
-I'm excited to delve deeper into machine learning, exploring its applications in enhancing user experiences and solving complex problems. Additionally, I'm eager to develop expertise in the field of cybersecurity, contributing to creating safer digital environments. My plan also involves contributing more to open-source projects and collaborating with fellow developers to create impactful solutions.
-
+I'm eager to dive deeper into machine learning, leveraging its capabilities for better user experiences and problem-solving. My journey also involves becoming a cybersecurity expert, contributing to a safer digital world. I'm committed to open-source projects and collaborating with fellow developers to make a lasting impact.
 
 ## Connect with Me
 
@@ -55,4 +51,4 @@ Let's connect and discuss all things tech and beyond:
 - Email: [enshikuku39@gmail.com](mailto:enshikuku39@gmail.com) 📧
 - Phone: [+254757321358](tel:+254757321358) 📞
 
-Feel free to reach out for collaboration, tech discussions, or just to say hi!
+Feel free to reach out for collaboration, tech discussions, or just to say hello!
