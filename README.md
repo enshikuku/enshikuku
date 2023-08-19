@@ -4,13 +4,13 @@
 
 ## About Me
 
-I'm deeply passionate about machine learning and its potential to enhance user experiences and tackle complex challenges. My journey also leads me towards mastering cybersecurity to contribute to safer digital spaces. I'm committed to open-source projects and collaborating with fellow developers to create meaningful solutions.
-
 - 💼 I'm a Full Stack Developer with a love for 🌐 JavaScript.
 - 🛠️ Proficient in HTML/CSS, Node.js, ejs, and React.
 - 📚 Currently pursuing a degree in Computer Science.
 - 🎓 Graduating with a BSc in Computer Science from the University of Eldoret in 2025.
 - 🌐 I've honed my skills in Full Stack Web Development at [Eldohub](https://www.eldohub.co.ke/).
+
+I'm deeply passionate about machine learning and its potential to enhance user experiences and tackle complex challenges. My journey also leads me towards mastering cybersecurity to contribute to safer digital spaces. I'm committed to open-source projects and collaborating with fellow developers to create meaningful solutions.
 
 ## My Projects
 
