@@ -12,7 +12,7 @@
 
 I'm deeply passionate about machine learning and its potential to enhance user experiences and tackle complex challenges. My journey also leads me towards mastering cybersecurity to contribute to safer digital spaces. I'm committed to open-source projects and collaborating with fellow developers to create meaningful solutions.
 
-## My Projects
+## My Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### E-learn
 
