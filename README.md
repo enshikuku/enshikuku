@@ -1,7 +1,7 @@
 # 💻E.N. Shikuku  
 <h3>Software Developer</h3>  
-🔭 Currently working on ![CALATECH](https://github.com/orgs/calatech)  
-  
+[![Cover Image](https://res.cloudinary.com/dlkqilyi0/image/upload/v1719393138/COVER_lbmnif.png)](https://github.com/orgs/calatech)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kingtenya39) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kingtenya39) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enshikuku)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enshikuku) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@enshikuku) 
 
